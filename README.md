@@ -1,16 +1,27 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+# 👋 Hi, I'm Isaiah!
 
-_"Your sample quote here!"_
+## 👨‍💻 About Me
+I'm currently a junior at the University of Texas at San Antonio (UTSA), majoring in Cybersecurity. I've always been interested in technology and learning how to protect computers and networks from cyber threats. I'm working toward becoming a cybersecurity analyst and gaining real-world experience through internships and hands-on projects.
+
+## 🛠️ Skills
+- Network Security
+- Python Programming
+- Linux
+- Git & GitHub
+- Wireshark
+- Active Directory
+- Cybersecurity Fundamentals
+
+## 🎯 Interests
+- Cybersecurity and Ethical Hacking
+- Security Operations Centers (SOC)
+- Threat Detection and Incident Response
+- Network Defense
+- Learning New Cybersecurity Tools
+
+## 🔗 Links
+- **GitHub:** https://github.com/isaiahdom05-source
+- **LinkedIn:** https://www.linkedin.com/in/isaiahdom/
+
+## 🚀 My Goals
+My goal is to gain more hands-on cybersecurity experience, earn additional certifications, and land a cybersecurity internship. I eventually want to work as a security analyst and help organizations protect their systems and information.
